@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "687746641869",
+    "project_id": "voicetech-labs",
+    "storage_bucket": "voicetech-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687746641869:android:b00ca6cc9488ac88635e84",
+        "android_client_info": {
+          "package_name": "com.example.voiceMobileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687746641869-44vnk8dj8tbvffkomgurchsv6bb9esmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiNkpAYmL37Q5jDhDYU59bs4gsGPs9-Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687746641869-44vnk8dj8tbvffkomgurchsv6bb9esmg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687746641869-iibe5nrjqbh42fit7cr9svh9d17djsjn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voiceMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
